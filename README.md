@@ -13,7 +13,7 @@ HTML5 JavaScript CSS3 React Redux React Next JS Figma Postman  Firebase  Flutter
 
 📊 GitHub Stats:
 
-
+https://github.com/ahbazarkoob/github-readme-stats#deploy-on-your-own
 
 
 🏆 GitHub Trophies:
