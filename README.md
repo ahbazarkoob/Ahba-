@@ -16,5 +16,6 @@ HTML5 JavaScript CSS3 React Redux React Next JS Figma Postman  Firebase  Flutter
 
 
 
-🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ahbazarkoob)](https://github.com/ahbazarkoob/github-profile-trophy)
+🏆 GitHub Trophies:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ahbazarkoob&theme=onedark)](https://github.com/ahbazarkoob/github-profile-trophy)
