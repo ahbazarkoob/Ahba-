@@ -1,8 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Join Pomegranate as a front-end developer.<br>🌱 I’m currently learning Next.js<br>💬 Ask me about JavaScript, and Flutter<br>
 
----
-[![](https://visitcount.itsvg.in/api?id=ahbazarkoob&icon=8&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/ahbazarkoob-b9910a1a6](https://www.linkedin.com/in/ahba-lateef-zarkoob-9a503920b/)) 
@@ -13,9 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=ahbazarkoob&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ahbazarkoob&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahbazarkoob&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ahbazarkoob&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
 
 
