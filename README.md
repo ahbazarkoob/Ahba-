@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Join Pomegranate as a front-end developer.<br>🌱 I’m currently learning Next.js<br>💬 Ask me about JavaScript, and Flutter<br>
+🔭 I’m currently working in Kraftbase as a front-end developer.<br>🌱 I’m currently learning Next.js<br>💬 Ask me about JavaScript, and Flutter<br>
 
 
 ## 🌐 Socials:
